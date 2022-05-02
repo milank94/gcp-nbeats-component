@@ -1,0 +1,11 @@
+name: nbeats-module
+channels:
+  - conda-forge
+dependencies:
+  - python==3.8
+  - pip
+  - pip:
+    - numpy==1.22
+    - pandas==1.4.2
+    - matplotlib==3.5.1
+    - tensorflow==2.8
