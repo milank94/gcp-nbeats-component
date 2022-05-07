@@ -1,4 +1,7 @@
 # Google Cloud Platform: N-BEATS Component
+
+Checkout the article on [Medium][]!
+
 Repository for creating a custom container image for the N-BEATS deep learning model architecture. Once registered to [Google Cloud Artifact Registry][], this model can be shared and used by anyone with access to the registry to develop their own custom machine learning (ML) pipelines for time series forecasting problems.
 
 **Disclaimer:** The model is purely for demonstrative purposes of the N-BEATS algorithm and should not be used for financial advice or to make any investment decisions.
@@ -103,3 +106,4 @@ Note: your custom model container will take about 16 minutes initially to build 
 [Google Cloud Artifact Registry]: https://cloud.google.com/artifact-registry
 [Kubeflow]: https://www.kubeflow.org/docs/components/pipelines/sdk-v2/v2-compatibility/
 [Vertex AI]: https://cloud.google.com/vertex-ai
+[Medium]: https://milan-kordic.medium.com/google-cloud-platform-n-beats-component-4ea5b527de7f
