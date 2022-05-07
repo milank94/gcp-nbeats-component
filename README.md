@@ -100,6 +100,6 @@ Note: your custom model container will take about 16 minutes initially to build 
 
 [N-BEATS]: https://arxiv.org/abs/1905.10437
 [Cloud Build]: https://cloud.google.com/build
-[Google Cloud Artifact Registry]: https://cloud.google.com/artifact-registry]
+[Google Cloud Artifact Registry]: https://cloud.google.com/artifact-registry
 [Kubeflow]: https://www.kubeflow.org/docs/components/pipelines/sdk-v2/v2-compatibility/
 [Vertex AI]: https://cloud.google.com/vertex-ai
